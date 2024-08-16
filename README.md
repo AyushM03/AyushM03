@@ -6,8 +6,6 @@
 
 I am a B.Tech CS student at YCCE, Nagpur, driven by a curiosity for technology and to express my love for writing. My journey goes into the depths of computer science, understanding new ideas, and sharing my reflections with the community.
 
-<p align='center'>
-  <a>
-    <img  src="A:\VS CODE PROGRAM\github profile resourses\Types Of software Developers.jpeg">
-  </a>&nbsp;&nbsp;
-  <p/>
+<p align="center">
+  <img src="A:\VS opensourceContribute\github profile resourses\Types Of software Developers.jpeg" width="350" title="hover text">
+</p>
